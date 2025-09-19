@@ -1,3 +1,3 @@
 # articles-drafts
 
-_Add notes/links here._
+Weekly executive summaries are auto-generated with Gemini LLM from live BigQuery dashboards
