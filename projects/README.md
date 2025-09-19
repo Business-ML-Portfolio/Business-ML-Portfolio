@@ -32,3 +32,4 @@
 
 *- Top contributors by geography/product.* 
 
+*- Weekly executive summaries are auto-generated with Gemini LLM from live BigQuery dashboards.*
