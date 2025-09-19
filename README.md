@@ -8,7 +8,7 @@
 This is a cloud-first portfolio built with **BigQuery**, **Google Colab**, **GitHub**, and **Looker Studio**—no local installs required. Each project answers a real business question and ends with recommended actions and expected impact.
 
 ## Project Index
-- (Add links as you ship)  
+- (Links to Projects)  
   - [`projects/kpi_hub/`](https://lookerstudio.google.com/s/tC8EZCDfsqk) — Executive KPI Hub (Revenue, AOV, Cohorts)  
   - [`projects/ltv_retention/`](projects/ltv_retention/) — LTV90 & Retention  
   - [`projects/churn_bqml/`](projects/churn_bqml/) — Churn Prediction (BigQuery ML)  
