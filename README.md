@@ -9,7 +9,7 @@ This is a cloud-first portfolio built with **BigQuery**, **Google Colab**, **Git
 
 ## Project Index
 - (Add links as you ship)  
-  - [`projects/kpi_hub/`](projects/kpi_hub/) — Executive KPI Hub (Revenue, AOV, Cohorts)  
+  - [`projects/kpi_hub/`]([projects/kpi_hub/](https://lookerstudio.google.com/s/tC8EZCDfsqk)) — Executive KPI Hub (Revenue, AOV, Cohorts)  
   - [`projects/ltv_retention/`](projects/ltv_retention/) — LTV90 & Retention  
   - [`projects/churn_bqml/`](projects/churn_bqml/) — Churn Prediction (BigQuery ML)  
   - [`projects/forecasting_bqml/`](projects/forecasting_bqml/) — Demand Forecasting (ARIMA_PLUS)  
